@@ -32,19 +32,16 @@ git clone https://github.com/Shivani-Toorpu/Netflix-SignUp-Page.git
 
 ## Features
 
-- Responsive design that adapts to different screen sizes
-- Styled input fields with floating labels
-- "Remember me" checkbox
-- Sign-in button with hover effect
-- Links for sign-up and help
+- Add new tasks to your to-do list.
+- Remove tasks when they are completed.
+- Simple and intuitive user interface.
 
 ## Customization
 
-You can customize this login page by modifying the following:
+You can customize this application by modifying the following:
 
-- Change the logo by replacing `Images/logo.svg`
-- Update the background image by replacing `Images/hero-img.jpg`
-- Adjust colors, fonts, and layout in the `style.css` file
+- Adjust colors, fonts, and layout in the `style.css` file.
+- Add additional features in `application.js` file.
 
 ## Contact
 
